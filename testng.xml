@@ -5,6 +5,10 @@
     <classes>
       
       <class name="com.softcell.qa.testcases.HomePageTest"/>
+      <class name="com.softcell.qa.testcases.ShoppingCartPageTest"/>
+      <class name="com.softcell.qa.testcases.ProductPageTest"/>
+      <class name="com.softcell.qa.testcases.VerifyCartPageTest"/>
+
     
     </classes>
   </test> <!-- Test -->
